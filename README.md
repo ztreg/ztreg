@@ -14,3 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ am a full stack web developer student at Nackademin.
+
+Connect with me:
+codeSTACKr | LinkedIn
+
+Languages and Tools:
+JavaScript
+
+Node.js
+
+Express.js
+
+Vue.js
+
+HTML
+
+CSS
+
+Sass
+
+Bootstrap
+
+jQuery
+
+PHP
+
+WordPress
+
+MongoDB
+
+Mongoose
+
+SQL
+
+MySQL
+
+Git
+
+GitHub
+
+Visual Studio Code
